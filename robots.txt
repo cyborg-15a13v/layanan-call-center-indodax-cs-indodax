@@ -1,0 +1,6 @@
+# robots.txt untuk https://hubungi-layanan-call-center-indodax.vercel.app/
+
+User-agent: *
+Disallow:
+
+Sitemap: https://hubungi-layanan-call-center-indodax.vercel.app/sitemap.xml
